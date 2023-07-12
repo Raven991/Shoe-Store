@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Shoe Store</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shoe_store">Shoe Store</string>
+    <string name="login">Login to an exiting account</string>
+    <string name="email">E-mail</string>
+    <string name="pass">Password</string>
+    <string name="newLogin">Create new Account</string>
+    <string name="welcomeText">Welcome To Shoe Store !</string>
+    <string name="greatingMessage">"THANK YOU  We have added you to our mailing list. You will be among the first people to get all of our special offers, newest updates, and announcements. We will do our best not to bore you with marketing emails! "</string>
+    <string name="emailHint">Enter your email address</string>
+    <string name="pass_hint">Enter your password</string>
+    <string name="login_text">Login</string>
+    <string name="exsiting_account_text">"alreadry have an account ? "</string>
+    <string name="instructionsBtn">Go To Instructions</string>
+    <string name="read_insrc">"Read The Instructions "</string>
+    <string name="instructions_msg">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, </string>
+    <string name="sheoList_btn">Go To Shoe List</string>
+    <string name="shoelogo">shoe_logo</string>
+    <string name="list_scrollView">list Scrollview</string>
+    <string name="men_list">Men</string>
+    <string name="women_scroll">Women</string>
+    <string name="kids_scrollview">Kids</string>
+    <string name="add">add to the list</string>
+    <string name="sheo_login">shoe-Login</string>
+    <string name="logout">Logout</string>
+
+    <string name="shoe1">Name: Lorem Ipsum</string>
+    <string name="shoe2">Name: rhoncus enim</string>
+    <string name="shoe3">Name: Cras quis</string>
+    <string name="shoe4">Name: Maecenas</string>
+    <string name="shoe5">Name: elementum </string>
+    <string name="shoe6">Name: Etiam </string>
+    <string name="medium_size">"39- 38 "</string>
+    <string name="small_size">"36- 37 "</string>
+    <string name="large_size">"40- 42 "</string>
+
+
+    <string name="description_shoe1">Description: Lorem ipsum dolor sit amet</string>
+    <string name="description_shoe2">Description: Lorem ipsum dolor sit amet</string>
+    <string name="description_shoe3">Description: Lorem ipsum dolor sit amet</string>
+    <string name="description_shoe4">Description: Lorem ipsum dolor sit amet</string>
+    <string name="description_shoe5">Description: Lorem ipsum dolor sit amet</string>
+    <string name="description_shoe6">Description: Lorem ipsum dolor sit amet</string>
+
+    <string name="brand_1">Brand : 1</string>
+    <string name="brand_2">Brand : 2</string>
+    <string name="brand_3">Brand : 3</string>
+    <string name="brand_4">Brand : 4</string>
+    <string name="brand_5">Brand : 5</string>
+    <string name="brand_6">Brand : 6</string>
+
+    <string name="add_shoe">Add Shoe</string>
+    <string name="shoe_details_header">Add Shoe Details</string>
+    <string name="shoe_name">Shoe Name:</string>
+    <string name="enter_shoe_name">Enter Shoe Name</string>
+    <string name="description">Description:</string>
+    <string name="company_name">Company Name:</string>
+    <string name="shoe_size">Shoe Size:</string>
+    <string name="enter_company_name">Enter Company Name</string>
+    <string name="enter_shoe_size">Enter Shoe Size</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="shoe_name_hint">Shoe Name</string>
+    <string name="company_name_hint">Company Name</string>
+    <string name="shoe_size_hint">Shoe Size</string>
+    <string name="description_hint">Description</string>
+    <string name="listScroll">Scroll down</string>
+</resources>
